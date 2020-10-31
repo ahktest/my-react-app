@@ -3,7 +3,7 @@ export const books = [
   id:1,
   author : 'Eichiro Oda',
   title : 'One Piece Manga',
-  img : 'http://s4.mangapanda.com/cover/one-piece/one-piece-m1.jpg'
+  img : 'https://img.kitapyurdu.com/v1/getImage/fn:10176350/wh:true/wi:256/pc:192'
 }
 ,
 {
