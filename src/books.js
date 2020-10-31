@@ -10,13 +10,13 @@ export const books = [
   id:2,
   author : 'Yukiro Malaga',
   title : 'The Zero Manga',
-  img : 'http://s4.mangapanda.com/cover/the-gamer/the-gamer-m0.jpg'
+  img : 'https://img.kitapyurdu.com/v1/getImage/fn:2929343/wh:true/wi:256/pc:190'
 }
 ,
 {
   id:3,
   author : 'Havasiki Komasiki',
   title : 'The Krositji Manga',
-  img : 'http://s3.mangapanda.com/cover/kuroshitsuji/kuroshitsuji-m0.jpg'
+  img : 'https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Kuroshitsuji_Volume_1_cover.jpg/220px-Kuroshitsuji_Volume_1_cover.jpg'
 }
 ]
